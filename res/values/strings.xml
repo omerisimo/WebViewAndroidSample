@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KlarnaInApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="webview_url">WebView URL:"</string>
+    <string name="open_webview">Go</string>
+    <string name="title_activity_webview">WebView Activity</string>
+    <string name="default_url">http://10.25.97.63:3000/registration/new?api_key=skadoo</string>   
+
+</resources>
