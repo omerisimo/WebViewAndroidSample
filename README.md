@@ -1,4 +1,4 @@
-Klarna InApp Demo Android Application
+WebView Demo Android Application
 ======================================
 
 A simple Android application that allows you to load a URL in a WebView.
